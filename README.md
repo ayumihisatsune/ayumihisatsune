@@ -4,16 +4,16 @@
 
 # Hi 👋, I'm Ayumi Hisatsune
 
-
+<!-- ここから選ぶ---https://github.com/tandpfun/skill-icons -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=9&i=html,css,js,ts,react,next,tailwind,express,prisma,python,django,flask,postgres,mysql,firebase,docker,git,github,linux,postman,aws,gcp,vscode,notion,discord" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=9&i=html,css,js,ts,react,next,tailwind,nodejs,express,prisma,python,django,flask,postgres,mysql,firebase,postman,docker,git,github,linux,aws,gcp,vscode,notion,discord" />
 <br>
 
 
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=ayumihisatsune&theme=light&layout=compact" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayumihisatsune&theme=light&layout=compact" />
+  <img alt="Top Langs" height="130px" src="https://github-readme-stats.vercel.app/api?username=ayumihisatsune&theme=light&layout=compact" />
+  <img alt="github stats" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayumihisatsune&theme=light&layout=compact" />
 </div>
 
 
